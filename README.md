@@ -22,3 +22,6 @@ This might be a little counter intuitive, because PF-LTD deficiency affects long
 
 <h2>Acknowledgements</h2>
 This was a final project for BIOL 378 at CWRU: Computational Neuroscience, taught by Dr. Peter Thomas. The project was done in conjunction with my classmate Daniel Popp.
+
+<h2>References</h2>
+[1] T. Yamazaki, S. Nagao, W. Lennon, and S. Tanaka, “Modeling memory consolidation during posttraining periods in cerebellovestibular learning,” Proceedings of the National Academy of Sciences, vol. 112, no. 11, pp. 3541–3546, 2015.
