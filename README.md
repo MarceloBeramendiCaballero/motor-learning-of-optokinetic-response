@@ -18,7 +18,7 @@ We reimplemented the model in MATLAB, and used it to further explore questions r
 <p align="center">
   The effect of different training paradigms in short-term memory formation.
 
-This might be a little counter intuitive, because PF-LTD deficiency affects long-term memory consolidation, so OKR improvements should not add up and the results for all training  paradigms should be the same. However, PF-LTD deficiency allows for the short-term increase in OKR to last for a longer amount of time. Therefore, if training sessions happen during the same day, like in our simulation, it is still possible for OKR improvements to add on top of each other. The rest of our findings are included in the attached project report.
+This might be a little counter intuitive, because PF-LTD deficiency affects long-term memory consolidation, so OKR improvements should not add up and the results for all training  paradigms should be the same. However, PF-LTD deficiency still allows for a short-term increase in OKR. Therefore, if training sessions happen during the same day, like in our simulation, it is still possible for OKR improvements to add on top of each other. The rest of our findings are included in the attached project report.
 
 <h2>Acknowledgements</h2>
 This was a final project for BIOL 378 at CWRU: Computational Neuroscience, taught by Dr. Peter Thomas. The project was done in conjunction with my classmate Daniel Popp.
